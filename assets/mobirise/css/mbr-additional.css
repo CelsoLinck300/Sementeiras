@@ -10252,6 +10252,54 @@ body {
 .cid-rl7Wb8e61e .user_name {
   text-align: right;
 }
+.cid-rlLwRhbKXw {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/visita-tim-crabtreefundoweb-750x500.jpg");
+}
+.cid-rlLwRhbKXw .testimonials-container {
+  margin: 0 auto;
+}
+.cid-rlLwRhbKXw .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+  -webkit-justify-content: center;
+}
+.cid-rlLwRhbKXw .testimonials-container .testimonials-item .user {
+  background: #ffffff;
+}
+.cid-rlLwRhbKXw .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-rlLwRhbKXw .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-rlLwRhbKXw .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rlLwRhbKXw .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+  padding: 2rem 2rem 2rem 0;
+}
+@media (max-width: 260px) {
+  .cid-rlLwRhbKXw .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rlLwRhbKXw .testimonials-caption {
+    padding: 0 2rem 2rem 2rem !important;
+  }
+}
+.cid-rlLwRhbKXw H2 {
+  color: #ffffff;
+}
 .cid-rl7WZfhDPz {
   padding-top: 45px;
   padding-bottom: 30px;
@@ -10950,35 +10998,28 @@ body {
 .cid-rkkQ0Vle2k H2 {
   text-align: left;
 }
-.cid-rkkQrfYtx8 {
+.cid-rlLo85px4G {
   padding-top: 30px;
-  padding-bottom: 45px;
-  background-color: #cfe9cb;
+  padding-bottom: 30px;
+  background-color: #41273f;
 }
 @media (min-width: 992px) {
-  .cid-rkkQrfYtx8 .mbr-figure {
+  .cid-rlLo85px4G .mbr-figure {
     padding-right: 4rem;
   }
 }
-@media (max-width: 991px) {
-  .cid-rkkQrfYtx8 .mbr-figure {
+@media (max-width: 992px) {
+  .cid-rlLo85px4G .mbr-figure {
     padding-bottom: 1rem;
   }
 }
-.cid-rkkQrfYtx8 .mbr-text {
-  color: #7f2f19;
-  text-align: left;
-}
-.cid-rkkQrfYtx8 .mbr-text I {
-  color: #7f2f19;
-}
-.cid-rkkQrfYtx8 .mbr-text B {
-  color: #7f2f19;
+.cid-rlLo85px4G .mbr-text {
+  color: #efefef;
 }
 .cid-rl7Wb8e61e {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 30px;
-  background-color: #b66e4e;
+  background-color: #e18257;
 }
 .cid-rl7Wb8e61e .testimonials-container {
   margin: 0 auto;
@@ -11017,17 +11058,113 @@ body {
 .cid-rl7Wb8e61e .user_name {
   text-align: right;
 }
-.cid-rl7WZfhDPz {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-color: #daf995;
+.cid-rlMknu5Gj9 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/cozinha-laboratriowebfundo-800x450.jpg");
 }
-.cid-rl7WZfhDPz .mbr-text,
-.cid-rl7WZfhDPz blockquote {
+.cid-rlMknu5Gj9 .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rl7WZfhDPz P {
-  color: #4f4943;
+.cid-rlMknu5Gj9 .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-rlMknu5Gj9 .mbr-text {
+  color: #767676;
+}
+.cid-rlMknu5Gj9 .mbr-author-desc {
+  display: block;
+  color: #767676;
+}
+.cid-rlMknu5Gj9 .mbr-author-name {
+  color: #767676;
+}
+.cid-rlMknu5Gj9 .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-rlMknu5Gj9 .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-rlMknu5Gj9 .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-rlMknu5Gj9 .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rlMknu5Gj9 .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 300px) {
+  .cid-rlMknu5Gj9 .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-rlMknu5Gj9 H2 {
+  text-align: center;
+}
+.cid-rlMnyQBTgB {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #7f1933;
+}
+.cid-rlMnyQBTgB .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rlMnyQBTgB B {
+  color: #ffffff;
+}
+.cid-rlMncZ6F8o {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #e2a6b5;
+}
+.cid-rlMncZ6F8o .counter-container {
+  color: #767676;
+}
+.cid-rlMncZ6F8o .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rlMncZ6F8o .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-rlMncZ6F8o .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #3e4749;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border-radius: 0;
+}
+.cid-rlMncZ6F8o .mbr-text UL {
+  color: #232323;
 }
 .cid-rlL8YzKhcG {
   padding-top: 60px;
@@ -11076,45 +11213,6 @@ body {
 .cid-rlL9QBcmAf .mbr-text,
 .cid-rlL9QBcmAf blockquote {
   color: #767676;
-}
-.cid-rlLaAzTUq2 {
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/formao-economia-soliria-23.03.2017-2000x1200.jpg");
-}
-.cid-rlLaAzTUq2 .testimonials-container {
-  margin: 0 auto;
-}
-.cid-rlLaAzTUq2 .testimonials-container .testimonials-item {
-  justify-content: center;
-  margin-top: 3rem;
-  -webkit-justify-content: center;
-}
-.cid-rlLaAzTUq2 .testimonials-container .testimonials-item .user {
-  background: #ffffff;
-}
-.cid-rlLaAzTUq2 .testimonials-container .testimonials-item .user.row {
-  margin: 0;
-}
-.cid-rlLaAzTUq2 .testimonials-container .testimonials-item .user .user_image {
-  width: 150px;
-  height: 150px;
-  overflow: hidden;
-  margin: 2rem auto 2rem auto;
-}
-.cid-rlLaAzTUq2 .testimonials-container .testimonials-item .user .user_image img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-rlLaAzTUq2 .testimonials-container .testimonials-item .user .testimonials-caption {
-  padding: 2rem;
-}
-@media (max-width: 260px) {
-  .cid-rlLaAzTUq2 .user_image {
-    width: 100% !important;
-    height: auto !important;
-  }
 }
 .cid-rlLeeMDiO2 {
   padding-top: 15px;
