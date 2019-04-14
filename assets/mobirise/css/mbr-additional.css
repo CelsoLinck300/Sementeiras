@@ -16138,7 +16138,7 @@ body {
 .cid-rn488sXovV {
   padding-top: 15px;
   padding-bottom: 30px;
-  background-color: #87d284;
+  background-color: #d89b7f;
 }
 .cid-rn488sXovV .testimonials-container {
   margin: 0 auto;
@@ -16149,7 +16149,7 @@ body {
   -webkit-justify-content: center;
 }
 .cid-rn488sXovV .testimonials-container .testimonials-item .user {
-  background: #dcfcd1;
+  background: #c4e8c2;
 }
 .cid-rn488sXovV .testimonials-container .testimonials-item .user.row {
   margin: 0;
@@ -16193,7 +16193,7 @@ body {
 .cid-rnfmbCR8mb {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-color: #cbfff4;
+  background-color: #efcaa6;
 }
 .cid-rnfmbCR8mb .mbr-text,
 .cid-rnfmbCR8mb blockquote {
@@ -16205,7 +16205,7 @@ body {
 .cid-rnfoKT0D3P {
   padding-top: 15px;
   padding-bottom: 30px;
-  background-color: #75cce0;
+  background-image: url("../../../assets/images/o-grupo-1-800x600.jpg");
 }
 .cid-rnfoKT0D3P .testimonials-container {
   margin: 0 auto;
@@ -16216,7 +16216,7 @@ body {
   -webkit-justify-content: center;
 }
 .cid-rnfoKT0D3P .testimonials-container .testimonials-item .user {
-  background: #c5dac4;
+  background: #efefef;
 }
 .cid-rnfoKT0D3P .testimonials-container .testimonials-item .user.row {
   margin: 0;
@@ -16234,17 +16234,11 @@ body {
 }
 .cid-rnfoKT0D3P .testimonials-container .testimonials-item .user .testimonials-caption {
   padding: 2rem;
-  padding: 2rem 2rem 2rem 0;
 }
 @media (max-width: 260px) {
   .cid-rnfoKT0D3P .user_image {
     width: 100% !important;
     height: auto !important;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rnfoKT0D3P .testimonials-caption {
-    padding: 0 2rem 2rem 2rem !important;
   }
 }
 .cid-rnfoKT0D3P .user_name {
